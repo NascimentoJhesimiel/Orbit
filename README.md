@@ -1,6 +1,6 @@
 # 🌟 Orbit - Gerenciador de Usuários
 
-Um sistema moderno e responsivo para gerenciamento de usuários, desenvolvido com **HTML5**, **CSS3 (Bootstrap 5)** e **JavaScript** puro em paradigma procedural.
+Um sistema moderno e responsivo para gerenciamento de usuários, desenvolvido com **HTML5**, **CSS3 (Bootstrap 5)** e **JavaScript** puro.
 
 ## 📋 Sumário
 
